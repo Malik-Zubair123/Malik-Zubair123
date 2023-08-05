@@ -1,8 +1,9 @@
-img src ="https://github.com/Malik-Zubair123/Malik-Zubair123/assets/94068841/94c37820-d97b-498a-aa54-06efa93284b6"
-)]
+![download](https://github.com/Malik-Zubair123/Malik-Zubair123/assets/94068841/b5574684-4972-47a8-b264-abfb59b42e35)
+
 <h1 align="center">Hi 👋, I'm Malik Muhammad Zubair</h1>
 <h3 align="center">A passionate Blockchain developer from Pakistan.</h3>
-img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw2D2yo4wuKa29gsah3bCEA6&ust=1691309497071000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLj4g4CJxYADFQAAAAAdAAAAABAK"
+
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 - 🔭 I’m currently working on **solidity projects.**
 
