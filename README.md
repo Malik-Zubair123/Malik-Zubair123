@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web 3.0 and AI.**
 
-- 💬 Ask me about **Solidity & Blockchain**
+- 💬 Ask me about **AI, Embedded & Blockchain**
 
 - 📫 How to reach me **mz932151@gmail.com**
 
